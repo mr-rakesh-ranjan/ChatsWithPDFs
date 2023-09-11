@@ -16,6 +16,7 @@ Hi EveryOne, This is Awesome-LLM is a curated list of papers about large languag
     7. Now Run the vector.py using 'python vector.py'
     ![1694426664690](image/README/1694426664690.png)
         -> After running previous command, a folder is created with name 'faiss-index-250' which contains two file 1. index.faiss and 2. index.pkl
+
         ![1694426742788](image/README/1694426742788.png)
     8. Lastly Run the app.py using 'python app.py' and ASK YOUR QUESTIONS FROM THE PDF
     ![1694426530796](image/README/1694426530796.png)
