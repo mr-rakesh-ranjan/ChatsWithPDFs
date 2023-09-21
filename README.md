@@ -12,6 +12,14 @@ Hi EveryOne, This is Awesome-LLM is a curated list of papers about large languag
     5. Save that .bin file to the root folder.
 
     ![1694426045592](image/README/1694426045592.png)
+    7. Create a .env file for creating the environments for LLMs
+        MODEL_TYPE=GPT4All
+        MODEL_PATH='add_model_path'
+        EMBEDDINGS_MODEL-NAME=all-MiniLM-L6-v2
+        MODEL_N_CTX=1000
+        MODEL_N_BATCH=8
+        TARGET_SOURCE_CHUNKS=4
+ 
 
     7. Now Run the vector.py using 'python vector.py'
     ![1694426664690](image/README/1694426664690.png)
